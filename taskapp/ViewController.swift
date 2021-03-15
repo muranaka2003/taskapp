@@ -38,7 +38,7 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
 
         //let formatter = DateFormatter()
         //formatter.dateFormat = "yyyy-MM-dd HH:mm"
-
+        // test
         //let dateString:String = formatter.string(from: task.date)
         //cell.detailTextLabel?.text = dateString
         // --- ここまで追加 ---
