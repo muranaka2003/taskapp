@@ -7,6 +7,7 @@
 
 import UIKit
 import RealmSwift   // ←追加
+import UserNotifications    // 追加
 
 class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSource {
     @IBOutlet weak var tableView: UITableView!
